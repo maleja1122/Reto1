@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+	background-color: #5a3954;
+	text-align: center;	
+	padding: 20px;
+	color: white;
+	
+}
+
+.titulo{
+    color: white;
+	margin: 7px;
+}
+
+.caja_parrafo{
+	margin: 2em;
+	text-align: center;
+	width: 49%;
+	
+}
+.parrafo{
+    display:inline-block;
+    color: black;
+    background-color: #038c8e;
+    border-radius: 15px;
+	height: 13vh;
+	text-align: center;
+	padding: 0.8em;
+	
+}
+
+
+
+.contenedor_caja{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	background-color: #033442;
+	
+}
+
+
+
